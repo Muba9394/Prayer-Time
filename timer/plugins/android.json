@@ -1,0 +1,64 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "com.muba.praytimer"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.muba.praytimer"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "com.muba.praytimer"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.muba.praytimer"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.muba.praytimer"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.muba.praytimer"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "com.muba.praytimer"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.muba.praytimer"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.muba.praytimer"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "com.muba.praytimer"
+    },
+    "cordova-plugin-device-motion": {
+      "PACKAGE_NAME": "com.muba.praytimer"
+    },
+    "cordova-plugin-device-orientation": {
+      "PACKAGE_NAME": "com.muba.praytimer"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.muba.praytimer"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.muba.praytimer"
+    },
+    "cordova-plugin-x-toast": {
+      "PACKAGE_NAME": "com.muba.praytimer"
+    },
+    "cordova.plugins.diagnostic": {
+      "PACKAGE_NAME": "com.muba.praytimer"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.muba.praytimer"
+    }
+  }
+}
